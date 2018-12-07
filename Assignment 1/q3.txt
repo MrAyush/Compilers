@@ -1,0 +1,6 @@
+The Java language is easier to understand (and write) than languages such as C and
+C++. The biggest reason for this is that Java doesn’t use pointers. Some people are
+surprised that pointers aren’t necessary for the creation of complex data structures
+and algorithms.
+
+(Copied)
