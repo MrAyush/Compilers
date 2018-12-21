@@ -1,0 +1,5 @@
+ayush 3
+aniket 4
+hello 1
+world 3
+nice 9
